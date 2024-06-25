@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOLA/PROBANDO.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOLA/PROBANDO.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOLA/PROBANDO.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOLA/PROBANDO.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "ed5ad0f85928d678",
   "lastOpenFiles": [
-    "Welcome.md",
     "HOLA/PROBANDO.md",
+    "Welcome.md",
     "HOLA"
   ]
 }
