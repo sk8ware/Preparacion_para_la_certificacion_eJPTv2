@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prueba.md",
+                "file": "hola/prueba.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba.md",
+                "file": "hola/prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba.md",
+                "file": "hola/prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prueba.md"
+                "file": "hola/prueba.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "b558100a687a889c",
   "lastOpenFiles": [
     "Welcome.md",
-    "prueba.md",
+    "hola/prueba.md",
     "hola",
     "HOLA/PROBANDO.md",
     "HOLA"
