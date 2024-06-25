@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b558100a687a889c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "prueba.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5a0d9d02553d4d1",
+  "active": "b558100a687a889c",
   "lastOpenFiles": [
+    "Welcome.md",
+    "prueba.md",
     "hola",
     "HOLA/PROBANDO.md",
-    "Welcome.md",
     "HOLA"
   ]
 }
