@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "19762d87afb033c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e796b67a63fb345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5ad0f85928d678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOLA/PROBANDO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53f815d349ae01ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7675bd488071ca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a0d9d02553d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "201cd54b3a10ac56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5560469c956e58d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f70001ff89fc0b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "5532da22dd106f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8acd8d426d846388",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HOLA/PROBANDO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ac03c58bcb85f51",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HOLA/PROBANDO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1411a11667dd9fbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9edebe1a5afdbf08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HOLA/PROBANDO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "ed5ad0f85928d678",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "HOLA/PROBANDO.md",
+    "HOLA"
+  ]
+}
