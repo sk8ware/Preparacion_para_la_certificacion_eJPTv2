@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -162,6 +163,8 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "Pasted image 20240625231913.png",
+    "Pasted image 20240625231744.png",
     "README.md",
     "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md",
     "Preparación de Laboratorios",
