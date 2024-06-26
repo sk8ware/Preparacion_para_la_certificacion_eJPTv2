@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -161,10 +160,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2982d9716e9b357c",
+  "active": "d5a0d9d02553d4d1",
   "lastOpenFiles": [
-    "Pasted image 20240625231913.png",
-    "Pasted image 20240625231744.png",
+    "IMG",
+    "IMG/Pasted image 20240625231913.png",
+    "IMG/Pasted image 20240625231744.png",
     "README.md",
     "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md",
     "Preparación de Laboratorios",
