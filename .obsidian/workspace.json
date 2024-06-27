@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed5ad0f85928d678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2982d9716e9b357c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md",
+                "file": "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md",
+                "file": "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md",
+                "file": "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md"
+                "file": "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos.md"
               }
             }
           }
@@ -160,12 +148,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5a0d9d02553d4d1",
+  "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "Captura de pantalla 2024-06-27 180332.png",
+    "Pasted image 20240627180334.png",
+    "README.md",
+    "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos.md",
     "IMG",
     "IMG/Pasted image 20240625231913.png",
     "IMG/Pasted image 20240625231744.png",
-    "README.md",
     "Preparación de Laboratorios/Presentación del Curso + Explicación del Examen.md",
     "Preparación de Laboratorios",
     "hola/prueba.md",
