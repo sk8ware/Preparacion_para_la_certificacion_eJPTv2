@@ -39,7 +39,8 @@ Actualizamos los paquetes y repositorios del sistema:
 
 
 ```zsh
-sudo apt update sudo apt upgrade
+sudo apt update 
+sudo apt upgrade
 ```
 
 Es importante realizar esta práctica regularmente para evitar problemas futuros.
