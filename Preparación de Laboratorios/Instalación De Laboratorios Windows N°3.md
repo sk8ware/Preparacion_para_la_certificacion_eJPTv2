@@ -17,4 +17,25 @@ sudo apt install gnome-boxes
 
 Esperan que complete la instalación y lo podrán abrir.
 
+Una vez Instalado simplemente procedemos a darle doble click en el archivo y continuar con la instalación.
 
+Realizamos unas pequeñas configuraciones y fijarnos en el apartado de red este habilitado el **adaptador puente**.
+
+Listo después de eso empezamos con la inicialización de nuestra maquina Windows dandole doble click.
+
+Al iniciar el sistema operativo veremos que nos pedirá la contraseña la cual esta asignada con `123123` sencillito y pa dentro xd 
+
+Una vez dentro de la maquina vamos a revisar si la configuración ip esta asignada correctamente 
+Ingresamos al modulo de cmd y escribimos `ipconfig`
+
+Si observamos nuestra dirección ip es por que se instalo correctamente
+
+Ahora si desde nuestra consola de linux le enviamos un **ping** deberíamos tener respuesta 
+
+```cmd
+ping (tu_dirección_ip)
+```
+
+Listo con esto ya tendríamos nuestra maquina lista para las próximas clases estarla vulnerando de manera ética en un entorno controlado, siempre con fines educativos :)
+
+qemu-img convert -O qcow2 windows7.vmdk windows7.qcow2
