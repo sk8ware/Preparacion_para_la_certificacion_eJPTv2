@@ -7,6 +7,6 @@
 - Metodología de Aprendizaje + Consejos N°2
 - Instalación De Laboratorios Windows N°3
 - Instalaciòn De La Máquina Atacante Kali Linux Nº4
-- Buenas Prácticas para Interactuar con nuestro Sistema Linux
+- Mejores Prácticas para Utilizar tu Sistema Linux N°5
 - Diferencias Entre Nat, Adaptador Puente Y Red Nat
 - Conceptos Básicos de Redes – Redes Clase A, B, C y Máscara de Red
