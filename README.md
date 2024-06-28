@@ -8,5 +8,5 @@
 - Instalación De Laboratorios Windows N°3
 - Instalaciòn De La Máquina Atacante Kali Linux Nº4
 - Mejores Prácticas para Utilizar tu Sistema Linux N°5
-- Diferencias Entre Nat, Adaptador Puente Y Red Nat
+- Comparativa de NAT, Adaptador en Puente y Red NAT N°6
 - Conceptos Básicos de Redes – Redes Clase A, B, C y Máscara de Red
