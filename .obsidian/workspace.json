@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparación de Laboratorios/Mejores Prácticas para Utilizar tu Sistema Linux N°5.md",
+                "file": "Preparación de Laboratorios/Comparativa de NAT, Adaptador en Puente y Red NAT N°6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparación de Laboratorios/Mejores Prácticas para Utilizar tu Sistema Linux N°5.md",
+                "file": "Preparación de Laboratorios/Comparativa de NAT, Adaptador en Puente y Red NAT N°6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparación de Laboratorios/Mejores Prácticas para Utilizar tu Sistema Linux N°5.md",
+                "file": "Preparación de Laboratorios/Comparativa de NAT, Adaptador en Puente y Red NAT N°6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparación de Laboratorios/Mejores Prácticas para Utilizar tu Sistema Linux N°5.md"
+                "file": "Preparación de Laboratorios/Comparativa de NAT, Adaptador en Puente y Red NAT N°6.md"
               }
             }
           }
@@ -150,12 +150,16 @@
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
     "README.md",
+    "Preparación de Laboratorios/Fundamentos de Redes.- Clases A, B, C y Máscaras de Red N°7.md",
     "Preparación de Laboratorios/Comparativa de NAT, Adaptador en Puente y Red NAT N°6.md",
+    "Preparación de Laboratorios/Explicación del Examen N°1.md",
+    "IMG/Pasted image 20240628102953.png",
     "Preparación de Laboratorios/Instalaciòn De La Máquina Atacante Kali Linux Nº4.md",
     "Preparación de Laboratorios/Instalación De Laboratorios Windows N°3.md",
-    "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos N°2.md",
     "Preparación de Laboratorios/Mejores Prácticas para Utilizar tu Sistema Linux N°5.md",
-    "Preparación de Laboratorios/Explicación del Examen N°1.md",
+    "Preparación de Laboratorios/Metodología de Aprendizaje + Consejos N°2.md",
+    "IMG/Pasted image 20240628101725.png",
+    "IMG/Pasted image 20240628101226.png",
     "IMG/Captura de pantalla 2024-06-27 180332.png",
     "IMG/Pasted image 20240627180334.png",
     "IMG",
