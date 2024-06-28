@@ -2,40 +2,46 @@
 ----
 - TAG: #eJPT #Preparación #Examen 
 ----
-Para este apartado vamos a realizar la instalación de nuestra futura maquina victima Windows 7, ya que hay que estaremos practicando algunas vulnerabilidades con esta maquina
+## Instalación de Máquina Víctima Windows 7 para Prácticas de Ethical Hacking
 
-A contunación les dejare el enlace de descarga de nuestra maquina victima:
-https://drive.google.com/file/d/11oWEHwqu9AOKNwBU483abdGhnxJaZKT5/view?usp=sharing
+En esta sección, aprenderemos a instalar y configurar una máquina víctima Windows 7, que será utilizada para practicar diversas vulnerabilidades en un entorno controlado.
 
-Yo lo estaré instalando en **gnome-boxes**, si ustedes desean lo pueden realizar en diferentes virtualizadores con Vmware o VirtualBox.
+### Descarga de la Máquina Víctima
 
-Si no lo tiene instalado en Linux, es tan sencillo como hacer :
+Para comenzar, descargaremos la imagen de la máquina víctima desde el siguiente enlace: [Windows 7 Victim Machine](https://drive.google.com/file/d/11oWEHwqu9AOKNwBU483abdGhnxJaZKT5/view?usp=sharing).
 
-```zsh
-sudo apt install gnome-boxes
-```
+### Configuración en VirtualBox (o Virtualizadores Similares)
 
-Esperan que complete la instalación y lo podrán abrir.
+Esta guía asume el uso de VirtualBox, pero también puedes utilizar otros virtualizadores como VMware o gnome-boxes.
 
-Una vez Instalado simplemente procedemos a darle doble click en el archivo y continuar con la instalación.
+1. **Instalación del Virtualizador**: Asegúrate de tener instalado VirtualBox u otro software de virtualización.
+    
+2. **Instalación de la Máquina Víctima**:
+    
+    - Descarga el archivo y ábrelo en VirtualBox.
+    - Sigue los pasos de instalación estándar.
+    - Durante la configuración, asegúrate de habilitar el adaptador de red en modo **puente** para conectividad adecuada.
+3. **Configuración Post-Instalación**:
+    
+    - Una vez completada la instalación, inicia la máquina virtual.
+4. **Acceso Inicial**: 
+    
+    - La contraseña inicial para la máquina víctima es `123123`.
+5. **Verificación de Configuración de Red**:
+    
+    - Abre la consola de comandos (cmd) dentro de Windows e introduce el comando `ipconfig`.
+    - Verifica que la dirección IP esté asignada correctamente.
+6. **Prueba de Conectividad**:
+    
+    - Desde la consola de comandos, realiza un ping a otra máquina en tu red o a una dirección IP externa para confirmar la conectividad.
 
-Realizamos unas pequeñas configuraciones y fijarnos en el apartado de red este habilitado el **adaptador puente**.
-
-Listo después de eso empezamos con la inicialización de nuestra maquina Windows dandole doble click.
-
-Al iniciar el sistema operativo veremos que nos pedirá la contraseña la cual esta asignada con `123123` sencillito y pa dentro xd 
-
-Una vez dentro de la maquina vamos a revisar si la configuración ip esta asignada correctamente 
-Ingresamos al modulo de cmd y escribimos `ipconfig`
-
-Si observamos nuestra dirección ip es por que se instalo correctamente
-
-Ahora si desde nuestra consola de linux le enviamos un **ping** deberíamos tener respuesta 
 
 ```cmd
-ping (tu_dirección_ip)
+ping tu_dirección_ip
 ```
 
-Listo con esto ya tendríamos nuestra maquina lista para las próximas clases estarla vulnerando de manera ética en un entorno controlado, siempre con fines educativos :)
+### Uso Ético y Educativo
 
-qemu-img convert -O qcow2 windows7.vmdk windows7.qcow2
+Con estos pasos completados, tendrás tu máquina víctima configurada y lista para practicar ethical hacking en un entorno controlado y seguro, siempre con fines educativos y éticos.
+
+¡Disfruta aprendiendo y explorando nuevas técnicas de seguridad! 
