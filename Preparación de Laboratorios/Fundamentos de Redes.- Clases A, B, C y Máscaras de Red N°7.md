@@ -2,20 +2,37 @@
 ---
 - TAG: #eJPT #Preparación #Examen 
 ---
-En este repositorio vamos aprender que es una mascara de red, que tipos de red hay segun el tamaño que tengan y como poder identificar cada tipo de red 
+## Entendiendo la Máscara de Red y Tipos de Redes
 
-De principio de temos 3 tipos de redes :
+En este repositorio, aprenderemos qué es una máscara de red, los diferentes tipos de redes según su tamaño y cómo identificar cada tipo de red.
 
-Tipo A
+### Tipos de Redes
 
-Tipo B
+Existen tres tipos principales de redes según el tamaño:
 
-Tipo C - Tipo de red domestica (192.158.2.28 - 255.255.0 = /24), la mascara de red nos permite pasarnos dentro de una dirección ip que es la porción de host y la porción de red, donde `192.158.2` seria la porción de red y el `.28` sería la porción del hosts, asi que si dentro de nuestra red privada existe otros dispositivos tedran la misma porción de red pero diferente finalización de hosts.
+1. **Red Tipo C**
+2. **Red Tipo B**
+3. **Red Tipo A**
 
-Para saber que siguen siendo la misma porción de red esta la mascara de red donde nos indica que `255.255.255` representa a tal red y el `.0` nos muestra la posición de donde se encuentra ubicado el hosts
+### Red Tipo C
 
-Dentro del examen esperen mucho este estilo de direcciones ip ya que suelen aparecer mucho, siempre deben identificar bien el tipo de mascara de red para ver a que tipo de red estamos enfrentandonos.
+Las redes tipo C son redes domésticas, que típicamente tienen direcciones IP como `192.158.2.28` con una máscara de red de `255.255.255.0`, representada como `/24`.
 
-Dentro de la porcisión de hosts se pueden almacenar hasta 254 equipos y el utimo numero de equipo seria el broatcast donde permite la conexión dentro de todos los equipos de la red
+- **Máscara de Red**: La máscara `255.255.255.0` indica que los primeros tres octetos (`192.158.2`) representan la porción de red, y el último octeto (`.28`) representa la porción de host.
+- **Hosts**: En una red tipo C, puedes tener hasta 254 dispositivos, ya que el último número de host (`.255`) se reserva para broadcast, permitiendo la comunicación con todos los dispositivos de la red.
 
-En donde siempre suelen terminar el /24 
+En los exámenes y prácticas, este tipo de dirección IP es común, así que asegúrate de identificar bien la máscara de red para saber a qué tipo de red te enfrentas.
+
+### Red Tipo B
+
+Las redes tipo B son más grandes y se utilizan en empresas. Estas redes tienen direcciones IP donde los primeros dos octetos (`255.255`) representan la porción de red y los últimos dos octetos (`0.0`) representan los hosts.
+
+- **Máscara de Red**: La máscara `255.255.0.0` indica que los primeros dos octetos son la porción de red y los últimos dos octetos son la porción de host.
+- **Hosts**: En una red tipo B, puedes tener muchos más dispositivos que en una red tipo C. Estas redes típicamente terminan en `/16`, lo que permite alojar una gran cantidad de equipos.
+
+### Red Tipo A
+
+Las redes tipo A son las más grandes y se utilizan en grandes organizaciones o para infraestructura de red a gran escala. En estas redes, solo el primer octeto (`255`) representa la porción de red, y los últimos tres octetos (`0.0.0`) representan los hosts.
+
+- **Máscara de Red**: La máscara `255.0.0.0` indica que solo el primer octeto es la porción de red.
+- **Hosts**: Con esta configuración, puedes tener una cantidad enorme de dispositivos. Estas redes se representan con `/8`.
