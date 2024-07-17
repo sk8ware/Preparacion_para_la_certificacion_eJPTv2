@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md"
               }
             }
           }
@@ -149,22 +150,24 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "Introducción al Hacking básico n°2/Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap n°7.md",
-    "Introducción al Hacking básico n°2/Identificación de Vulnerabilidades con Nmap n°6.md",
     "README.md",
-    "Introducción al Hacking básico n°2/Escaneos Fundamentales con Nmap n°5.md",
-    "Introducción al Hacking básico n°2/Exploración de Redes con ARP-SCAN y NETDISCOVER n°4.md",
-    "Introducción al Hacking básico n°2/Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python N°2.md",
-    "Introducción al Hacking básico n°2/Transferencia de Archivos en Redes Windows N°3.md",
-    "Introducción al Hacking básico n°2/Implementación de Reverse Shells con Netcat N°1.md",
-    "Preparación de Laboratorios n°1/Explicación del Examen N°1.md",
-    "Preparación de Laboratorios n°1/Metodología de Aprendizaje + Consejos N°2.md",
-    "Preparación de Laboratorios n°1/Mejores Prácticas para Utilizar tu Sistema Linux N°5.md",
-    "Preparación de Laboratorios n°1/Instalación De Laboratorios Windows N°3.md",
-    "Preparación de Laboratorios n°1/Instalaciòn De La Máquina Atacante Kali Linux Nº4.md",
-    "Preparación de Laboratorios n°1/Fundamentos de Redes.- Clases A, B, C y Máscaras de Red N°7.md",
-    "Preparación de Laboratorios n°1/Comparativa de NAT, Adaptador en Puente y Red NAT N°6.md",
-    "Introducción al Hacking básico n°2",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
+    "N°2 Introducción al Hacking básico/N°1 Implementación de Reverse Shells con Netcat.md",
+    "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
+    "N°2 Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
+    "N°2 Introducción al Hacking básico/N°5 Escaneos Fundamentales con Nmap.md",
+    "N°2 Introducción al Hacking básico/N°4 Exploración de Redes con ARP-SCAN y NETDISCOVER.md",
+    "N°2 Introducción al Hacking básico/N°6 Identificación de Vulnerabilidades con Nmap.md",
+    "N°2 Introducción al Hacking básico/N°7 Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap.md",
+    "N°1 Preparación de Laboratorios/Nº4  Instalación De La Máquina Atacante Kali Linux.md",
+    "N°1 Preparación de Laboratorios/N°5 Mejores Prácticas para Utilizar tu Sistema Linux.md",
+    "N°1 Preparación de Laboratorios/N°7 Fundamentos de Redes.- Clases A, B, C y Máscaras de Red.md",
+    "N°1 Preparación de Laboratorios/N°1 Explicación del Examen.md",
+    "N°1 Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
+    "N°1 Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
+    "N°1 Preparación de Laboratorios/N°2 Metodología de Aprendizaje + Consejos.md",
+    "N°3 Vulneravbilidades y fuerza Bruta",
+    "N°2 Introducción al Hacking básico",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240628101226.png",
@@ -173,7 +176,7 @@
     "IMG",
     "IMG/Pasted image 20240625231913.png",
     "IMG/Pasted image 20240625231744.png",
-    "Preparación de Laboratorios n°1",
+    "N°1 Preparación de Laboratorios",
     "hola/prueba.md",
     "hola",
     "HOLA/PROBANDO.md",
