@@ -2,7 +2,7 @@
 ¡Bienvenido al repositorio de preparación para el examen eJPT (eLearnining Junior Penetration Tester)! Aquí encontrarás recursos y herramientas para ayudarte a dominar los fundamentos y técnicas avanzadas de la penetración ética. Desde ejercicios prácticos hasta guías detalladas, todo está diseñado para prepararte de manera efectiva para obtener tu certificación eJPT.
 
 ---
-# **N°1 Preparación de Laboratorios **
+# **N°1 Preparación de Laboratorios**
 - Explicación del Examen n°1
 - Metodología de Aprendizaje + Consejos n°2
 - Instalación De Laboratorios Windows n°3
@@ -23,7 +23,7 @@
 # **N°3 Explotación de Vulnerabilidades y Fuerza Bruta**
 
 - **N°1  Descarga Alternativa de Laboratorios** 
-- **Introducción a Metasploit – Ejemplo de EternalBlue en Windows**
+- **N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows**
 - **Introducción a Metasploit – Ejemplo de vsftpd en Linux**
 - **Generación de Payloads con Msfvenom**
 - **Ataques de Contraseñas con Hydra (SSH y FTP)**
