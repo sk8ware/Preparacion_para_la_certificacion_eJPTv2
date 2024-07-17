@@ -2,7 +2,7 @@
 ¡Bienvenido al repositorio de preparación para el examen eJPT (eLearnining Junior Penetration Tester)! Aquí encontrarás recursos y herramientas para ayudarte a dominar los fundamentos y técnicas avanzadas de la penetración ética. Desde ejercicios prácticos hasta guías detalladas, todo está diseñado para prepararte de manera efectiva para obtener tu certificación eJPT.
 
 ---
-# **Preparación de Laboratorios n°1**
+# **N°1 Preparación de Laboratorios **
 - Explicación del Examen n°1
 - Metodología de Aprendizaje + Consejos n°2
 - Instalación De Laboratorios Windows n°3
@@ -11,7 +11,7 @@
 - Comparativa de NAT, Adaptador en Puente y Red NAT n°6
 - Fundamentos de Redes.- Clases A, B, C y Máscaras de Red n°7
 
-# **Introducción al Hacking básico n°2**
+# **N°2 Introducción al Hacking básico**
 - Implementación de Reverse Shells con Netcat n°1
 - Compartición de Archivos mediante HTTP con Python y Reverse Shells n°2
 - Transferencia de Archivos en Redes de Windows n°3
@@ -20,9 +20,9 @@
 - Identificación de Vulnerabilidades con Nmap n°6
 - Escaneo de Puertos UDP: Fundamentos y Aplicación con Nmap n°7
 
-# **Explotación de Vulnerabilidades y Fuerza Bruta n°3**
+# **N°3 Explotación de Vulnerabilidades y Fuerza Bruta**
 
-- **Descarga Alternativa de Laboratorios**
+- **N°1  Descarga Alternativa de Laboratorios** 
 - **Introducción a Metasploit – Ejemplo de EternalBlue en Windows**
 - **Introducción a Metasploit – Ejemplo de vsftpd en Linux**
 - **Generación de Payloads con Msfvenom**
