@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción al Hacking básico n°2/Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap n°7.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introducción al Hacking básico n°2/Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap n°7.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introducción al Hacking básico n°2/Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap n°7.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introducción al Hacking básico n°2/Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap n°7.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "Introducción al Hacking básico n°2/Identificación de Vulnerabilidades con Nmap n°6.md",
     "Introducción al Hacking básico n°2/Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap n°7.md",
+    "Introducción al Hacking básico n°2/Identificación de Vulnerabilidades con Nmap n°6.md",
     "README.md",
     "Introducción al Hacking básico n°2/Escaneos Fundamentales con Nmap n°5.md",
     "Introducción al Hacking básico n°2/Exploración de Redes con ARP-SCAN y NETDISCOVER n°4.md",
