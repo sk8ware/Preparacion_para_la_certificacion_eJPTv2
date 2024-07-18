@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md"
+                "file": "README.md"
               }
             }
           }
@@ -150,9 +149,11 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°3 Vulneravbilidades y fuerza Bruta/N°4 Generación de Payloads con Msfvenom.md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
     "README.md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°6 Ataques de Usuarios con Hydra (SSH y FTP).md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°4 Generación de Payloads con Msfvenom.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°3 Introducción a Metasploit – Ejemplo de vsftpd en Linux.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows.md",
