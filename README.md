@@ -24,11 +24,11 @@
 
 - **N°1  Descarga Alternativa de Laboratorios** 
 - **N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows**
-- **Introducción a Metasploit – Ejemplo de vsftpd en Linux**
-- **Generación de Payloads con Msfvenom**
-- **Ataques de Contraseñas con Hydra (SSH y FTP)**
-- **Ataques de Usuarios con Hydra (SSH y FTP)**
-- **Ataques a Paneles de Login Web con Hydra**
-- **Ataques de Fuerza Bruta con Metasploit**
-- **Ataques a Bases de Datos mediante Fuerza Bruta**
-- **Ataques Locales con John The Ripper**
+- **N°3 Introducción a Metasploit – Ejemplo de vsftpd en Linux**
+- **N°4 Generación de Payloads con Msfvenom**
+- **N°5 Ataques de Contraseñas con Hydra (SSH y FTP)**
+- **N°6 Ataques de Usuarios con Hydra (SSH y FTP)**
+- **N°7 Ataques a Paneles de Login Web con Hydra**
+- **N°8 Ataques de Fuerza Bruta con Metasploit**
+- **N°9 Ataques a Bases de Datos mediante Fuerza Bruta**
+- **N°10 Ataques Locales con John The Ripper**
