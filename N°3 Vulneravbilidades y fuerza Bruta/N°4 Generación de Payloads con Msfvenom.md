@@ -1,0 +1,4 @@
+
+---
+- TAG: #Payloads #Metasploit #Msfvenom
+---
