@@ -10,6 +10,13 @@ En este apartado, vamos a enseñar un poco sobre la **Explotación de vulnerabil
 
 Primero, debemos abrir nuestra aplicación de Metasploit de manera manual desde las aplicaciones de Kali Linux para que se ejecute correctamente.
 
+Desde consola se abre con :
+
+```bash
+msfconsole
+```
+
+
 ## Buscar la Vulnerabilidad
 
 Una vez abierta, podemos buscar la vulnerabilidad con el comando:
