@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md"
+                "file": "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°3 Vulneravbilidades y fuerza Bruta/N°8 Ataques de Fuerza Bruta con Metasploit.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
     "README.md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°8 Ataques de Fuerza Bruta con Metasploit.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°6 Ataques de Usuarios con Hydra (SSH y FTP).md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
@@ -186,7 +187,6 @@
     "N°1 Preparación de Laboratorios",
     "hola/prueba.md",
     "hola",
-    "HOLA/PROBANDO.md",
     "HOLA"
   ]
 }
