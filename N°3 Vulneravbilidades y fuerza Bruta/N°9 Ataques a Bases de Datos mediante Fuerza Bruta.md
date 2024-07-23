@@ -34,15 +34,14 @@ En esta clase, aprenderemos a realizar ataques de fuerza bruta a bases de datos 
 1. **Buscar Información en la Página Web:**
    - El puerto **80** está abierto, así que investigamos la página web.
    - Encontramos un mensaje en el código fuente que indica un posible usuario:
-     ```html
-     <p>hola<strong>capybarauser</strong>, esta es una web de capybaras.</p>
-     ```
+```html
+<p>hola<strong>capybarauser</strong>, esta es una web de capybaras.</p>
+```
 
 2. **Ataque de Fuerza Bruta con Hydra:**
    - Utilizamos **Hydra** para realizar el ataque de fuerza bruta en el puerto **3306**:
-     ```bash
-     hydra -l capybarauser -P /usr/share/wordlists/rockyou.txt mysql://1.2.3.4
-     ```
+```bash
+hydra -l capybarauser -P /usr/share/wordlists/rockyou.txt mysql://1.2.3.4 ```
 
    - Si **Hydra** tarda mucho en encontrar la contraseña, es posible que esté al final del archivo `rockyou.txt`. Para acelerar el proceso, invertimos el archivo:
      ```bash
