@@ -32,3 +32,22 @@
 - **N°8 Ataques de Fuerza Bruta con Metasploit**
 - **N°9 Ataques a Bases de Datos mediante Fuerza Bruta**
 - **N°10 Ataques Locales con John The Ripper**
+
+# **N°4 Identificación y Explotación de Vulnerabilidades en Aplicaciones Web**
+
+- **N°1 Introducción al Fuzzing Web – Utilización de Gobuster**
+- **N°2 Exploración de Subdominios con Wfuzz**
+- **N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos**
+- **N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH**
+- **N°5 Explotación de Vulnerabilidades en Carga de Archivos**
+- **N°6 Primeros Pasos tras la Intrusión (Manejo de TTY)**
+- **N°7 Acceso a Servidor mediante Webshell**
+- **N°8 Saltar Restricciones en la Carga de Archivos**
+- **N°9 Burp Suite – Modificación de Solicitudes HTTP**
+- **N°10 Burp Suite – Utilización del Repeater**
+- **N°11 Burp Suite – Utilización del Intruder**
+- **N°12 Inyecciones SQL – Empleo de SQLmap**
+- **N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2**
+- **N°14 Hacking en Servidores Tomcat**
+- **N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales**
+- **N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables**
