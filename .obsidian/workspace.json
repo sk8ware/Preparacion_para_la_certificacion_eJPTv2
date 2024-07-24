@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -149,9 +150,9 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "README.md",
-    "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
     "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
+    "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+    "README.md",
     "N°1 Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
     "N°1 Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
     "N°4 Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
