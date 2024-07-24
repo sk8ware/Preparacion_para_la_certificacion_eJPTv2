@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md"
+                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md"
               }
             }
           }
@@ -150,14 +149,16 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
-    "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+    "N°4 Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
+    "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
     "README.md",
+    "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+    "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
+    "N°4 Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
+    "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
     "N°1 Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
     "N°1 Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
-    "N°4 Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°4 Generación de Payloads con Msfvenom.md",
@@ -175,8 +176,6 @@
     "N°3 Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
     "N°2 Introducción al Hacking básico/N°6 Identificación de Vulnerabilidades con Nmap.md",
     "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
-    "N°2 Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
-    "N°2 Introducción al Hacking básico/N°5 Escaneos Fundamentales con Nmap.md",
     "N°3 Vulneravbilidades y fuerza Bruta",
     "N°2 Introducción al Hacking básico",
     "IMG/Pasted image 20240628102953.png",
