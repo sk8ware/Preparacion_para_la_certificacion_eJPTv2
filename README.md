@@ -38,7 +38,7 @@
 - **N°1 Introducción al Fuzzing Web – Utilización de Gobuster**
 - **N°2 Exploración de Subdominios con Wfuzz**
 - **N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos**
-- **N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH**
+- **N°4 Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH**
 - **N°5 Explotación de Vulnerabilidades en Carga de Archivos**
 - **N°6 Primeros Pasos tras la Intrusión (Manejo de TTY)**
 - **N°7 Acceso a Servidor mediante Webshell**
