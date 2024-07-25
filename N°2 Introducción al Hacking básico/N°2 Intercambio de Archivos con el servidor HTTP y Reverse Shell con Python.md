@@ -8,7 +8,7 @@ En este apartado, voy a compartir cómo transferir archivos con el servidor `htt
 
 # Máquina Kali Linux (Atacante)
 
-Vamos a crearnos un `payload.sh`:
+Vamos a crearn un `payload.sh`:
 
 ```bash
 #!/bin/bash  
