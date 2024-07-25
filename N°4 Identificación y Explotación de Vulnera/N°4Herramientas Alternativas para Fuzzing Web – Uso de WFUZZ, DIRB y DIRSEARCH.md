@@ -3,83 +3,68 @@
 
 - TAG: #Fuzzing #Web #Wfuzz #Dirb #Dirsearch
 ----
-# Alternativas a Gobuster para Fuzzing Web
+# Fuzzing Web con Alternativas a Gobuster
 
-En esta lección, vamos a explorar alternativas a **Gobuster** para realizar **Fuzzing Web**. Estas herramientas nos permiten encontrar directorios en una página web, lo cual es crucial en las pruebas de penetración. A veces, es posible que **Gobuster** no esté instalado en la máquina o presente errores, por lo que es útil conocer otras opciones.
+Seguimos un poco con el **Fuzzing Web** utilizando otra alternativa para **Gobuster**. Esta herramienta nos permitía encontrar directorios dentro de una página web.
 
-Para esta práctica, utilizaremos la máquina **Jenk-Vulnyx** de Vulnyx. Aquí están los pasos:
+En este apartado estaremos viendo otras alternativas a esta herramienta. Esto es útil en caso de que la herramienta **gobuster** no esté instalada en la máquina o que tenga algunos errores.
 
-## Preparativos
+Estaremos practicando con una máquina llamada [Jenk-Vulnyx](https://vulnyx.com/#jenk):
+- La descargamos.
+- Extraemos el fichero.
+- Importamos la máquina a Virtual Box.
+- Configuramos el adaptador puente en la configuración de la red.
+- Iniciamos la máquina.
 
-1. **Descargar y Configurar la Máquina:**
-   - Descargamos la máquina [Jenk-Vulnyx](https://vulnyx.com/#jenk).
-   - Extraemos el fichero y abrimos la máquina en VirtualBox.
-   - Configuramos la red en **Adaptador Puente**.
-   - Iniciamos la máquina.
+Desde nuestra máquina Kali Linux realizamos lo de siempre:
+- `arp-scan` para localizar la máquina descargada.
+- `ping` para ver si tenemos conectividad con la máquina.
+- `nmap` para localizar las vulnerabilidades y puertos abiertos:
+  ```bash
+  nmap -p- -sS -sC -sV --open --min-rate=5000 -n -Pn -vvv 1.2.3.4 -oN escaneo
+  ```
 
-2. **Localizar la Máquina:**
-   - Desde nuestra máquina **Kali Linux**, usamos **arp-scan** para encontrar la IP de la máquina Jenk-Vulnyx:
-```bash
-arp-scan -I wlan0 --localnet
-```
-   - Comprobamos la conectividad con un **ping**:
-```bash
-ping 1.2.3.4
-```
+Nos dirigimos a nuestro navegador e ingresamos la dirección IP para ver lo que nos muestra.
 
-3. **Escaneo de Puertos y Vulnerabilidades:**
-   - Realizamos un escaneo con **nmap** para encontrar puertos abiertos y posibles vulnerabilidades:
-```bash
-nmap -p- -sS -sC -sV --open --min-rate=5000 -n -Pn -vvv 1.2.3.4 -oN escaneo
-```
-   - Nos dirigimos al navegador e ingresamos la dirección IP para ver qué muestra.
+En este punto podríamos realizar un ataque de **Fuzzing** con **gobuster** pero para esta ocasión estaremos utilizando otra herramienta.
 
-## Alternativas a Gobuster
-
-### Wfuzz
-
-**Wfuzz** es una herramienta excelente para el fuzzing web, permitiendo seleccionar directorios de acuerdo a nuestras necesidades.
-
-1. **Uso de Wfuzz:**
+## Wfuzz
+Tenemos esta maravillosa herramienta para seleccionar el directorio que se ajuste a nuestras necesidades:
 ```bash
 wfuzz -c --hc 404 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt http://1.2.3.4/FUZZ
 ```
-   - Este comando realizará fuzzing de manera similar a **Gobuster**, encontrando dominios al final de la **URL**.
-   - Encontramos una ruta interesante llamada **webcams**.
 
-### Dirb
+Esta herramienta realizará **Fuzzing** como si fuera con **gobuster**, pero encontraremos los dominios al final de la **URL**.
 
-**Dirb** es otra herramienta útil para el fuzzing web. Aunque utiliza un directorio más pequeño, puede ser efectiva en ciertos casos.
+Vemos que hay una ruta interesante, llamada **webcams**.
 
-1. **Uso de Dirb:**
+En esta ocasión no hizo falta utilizar el `--hl=` ya que el resultado que mostraba de líneas la mayoría resultó ser importante.
+
+## Dirb
+Ahora en este ejemplo veremos que nos mostrará muy poquitos ejemplos ya que emplea un diccionario más pequeño:
 ```bash
 dirb http://1.2.3.4/
 ```
-   - Aunque muestra menos resultados, es útil tenerla como alternativa.
 
-### Dirsearch
+Pero no está mal utilizarlo por cualquier ocasión.
 
-**Dirsearch** es una herramienta automatizada que no requiere la especificación de un directorio. Busca extensiones, métodos HTTP, hilos, etc.
-
-1. **Uso de Dirsearch:**
+## Dirsearch
+Esta herramienta también es muy útil al momento de realizar fuzzing web:
 ```bash
 dirsearch -u http://1.2.3.4/
 ```
-   - Inicialmente, no muestra el dominio **webcams** debido al uso de un diccionario predeterminado.
-   - Usamos el parámetro `-w` para especificar un diccionario:
+
+Esta herramienta es automática ya que no tenemos que pasarle ningún directorio ni nada. Empieza buscando por extensiones, métodos HTTP, threads, etc.
+
+Si revisamos el output, nos daremos cuenta de que no nos muestra el dominio **webcams**. Eso se debe a que no hemos asignado ningún diccionario y por ende emplea uno automáticamente y mucho más corto al parecer.
+
+Utilizamos el parámetro `-w` seguido del diccionario que hemos empleado anteriormente:
 ```bash
 dirsearch -u http://1.2.3.4/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
 ```
-   - Esto muestra el directorio **webcams** utilizando un diccionario más extenso.
 
-## Resumen
+Y efectivamente encontraremos el directorio **webcams** utilizando esta herramienta mucho más sencilla.
 
-Hemos explorado varias alternativas a **Gobuster** para realizar fuzzing web:
+Estas herramientas son otras alternativas a **gobuster**, pero tomen muy en cuenta que no es lo mismo hacer búsqueda de directorios web que es lo que hemos estado haciendo en este bloc, que hacer una búsqueda de subdominios que era lo que hacíamos con **Wfuzz** en blocs anteriores.
 
-- **Wfuzz** para encontrar directorios.
-- **Dirb** como opción secundaria con un directorio más pequeño.
-- **Dirsearch** para una búsqueda automatizada y detallada.
-
-Es importante recordar que hay una diferencia significativa entre buscar directorios web y buscar subdominios. Hemos estado enfocados en la búsqueda de directorios web en esta lección. Conocer estas alternativas es crucial para estar preparados en el examen **eJPT** y en cualquier prueba de penetración.
-
-¡Sigan practicando y explorando estas herramientas!
+Como les comenté, no realizaremos la máquina completa, aunque está muy interesante, ya que solo quería mostrarles las otras opciones a **gobuster** ya que no viene mal saber estas alternativas al momento del examen. :)
