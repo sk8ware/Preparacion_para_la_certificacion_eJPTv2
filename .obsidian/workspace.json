@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vmware",
+                "query": "search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md"
+                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md"
               }
             }
           }
@@ -149,13 +149,16 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°4 Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
-    "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+    "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
+    "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
     "README.md",
+    "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+    "N°4 Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
     "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+    "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
+    "().md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
     "N°4 Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
-    "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
     "N°1 Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
     "N°1 Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
@@ -173,9 +176,6 @@
     "N°3 Vulneravbilidades y fuerza Bruta/N°8 Ataques de Fuerza Bruta con Metasploit.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°6 Ataques de Usuarios con Hydra (SSH y FTP).md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
-    "N°2 Introducción al Hacking básico/N°6 Identificación de Vulnerabilidades con Nmap.md",
-    "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "N°3 Vulneravbilidades y fuerza Bruta",
     "N°2 Introducción al Hacking básico",
     "IMG/Pasted image 20240628102953.png",
