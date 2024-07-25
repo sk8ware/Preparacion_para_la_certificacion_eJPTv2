@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md"
+                "file": "README.md"
               }
             }
           }
@@ -147,13 +147,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2982d9716e9b357c",
+  "active": "d5a0d9d02553d4d1",
   "lastOpenFiles": [
-    "N°4 Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
-    "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
+    "Sin título.md",
     "README.md",
-    "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+    "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
+    "N°4 Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
+    "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "N°4 Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
     "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
     "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
@@ -175,7 +176,6 @@
     "N°1 Preparación de Laboratorios/N°1 Explicación del Examen.md",
     "N°4 Identificación y Explotación de Vulnera",
     "N°3 Vulneravbilidades y fuerza Bruta/N°8 Ataques de Fuerza Bruta con Metasploit.md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°5 Ataques de Contraseñas con Hydra (SSH y FTP).md",
     "N°3 Vulneravbilidades y fuerza Bruta",
     "N°2 Introducción al Hacking básico",
     "IMG/Pasted image 20240628102953.png",
