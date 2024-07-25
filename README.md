@@ -3,22 +3,22 @@
 
 ---
 # **N°1 Preparación de Laboratorios**
-- Explicación del Examen n°1
-- Metodología de Aprendizaje + Consejos n°2
-- Instalación De Laboratorios Windows n°3
-- Instalaciòn De La Máquina Atacante Kali Linux nº4
-- Mejores Prácticas para Utilizar tu Sistema Linux n°5
-- Comparativa de NAT, Adaptador en Puente y Red NAT n°6
-- Fundamentos de Redes.- Clases A, B, C y Máscaras de Red n°7
+- **N°1 Explicación del Examen**
+- **N°2 Metodología de Aprendizaje + Consejos**
+- **N°3 Instalación De Laboratorios Windows**
+- **N°4 Instalaciòn De La Máquina Atacante Kali Linux**
+- **N°5 Mejores Prácticas para Utilizar tu Sistema Linux** 
+- **N°6 Comparativa de NAT, Adaptador en Puente y Red NAT** 
+- **N°7 Fundamentos de Redes.- Clases A, B, C y Máscaras de Red**
 
 # **N°2 Introducción al Hacking básico**
-- Implementación de Reverse Shells con Netcat n°1
-- Compartición de Archivos mediante HTTP con Python y Reverse Shells n°2
-- Transferencia de Archivos en Redes de Windows n°3
-- Exploración de Redes con ARP-SCAN y NETDISCOVER n°4
-- Escaneos Fundamentales con Nmap n°5
-- Identificación de Vulnerabilidades con Nmap n°6
-- Escaneo de Puertos UDP: Fundamentos y Aplicación con Nmap n°7
+- **N°1 Implementación de Reverse Shells con Netcat**
+- **N°2 Compartición de Archivos mediante HTTP con Python y Reverse Shells** 
+- **N°3 Transferencia de Archivos en Redes de Windows**
+- **N°4 Exploración de Redes con ARP-SCAN y NETDISCOVER**
+- **N°5 Escaneos Fundamentales con Nmap** 
+- **N°6 Identificación de Vulnerabilidades con Nmap**
+- **N°7 Escaneo de Puertos UDP: Fundamentos y Aplicación con Nmap**
 
 # **N°3 Explotación de Vulnerabilidades y Fuerza Bruta**
 
