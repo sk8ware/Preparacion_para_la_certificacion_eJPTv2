@@ -7,6 +7,13 @@
 
 En este apartado, vamos a explorar la funcionalidad del **Repeater** en Burpsuite. Este es un apartado muy útil e importante de dominar.
 
+## Requisitos
+
+Para esta práctica, vamos a necesitar:
+1. Una máquina **Kali Linux**.
+2. Máquina vulnerable de **TryHackMe** [Máquina Vulnversity](https://tryhackme.com/r/room/vulnversity).
+3. Burpsuite instalado en Kali Linux.
+
 ## Configuración de Burpsuite y el Navegador
 
 Volvemos a configurar nuestro navegador y abrimos Burpsuite.
