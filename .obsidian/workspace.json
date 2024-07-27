@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -149,9 +150,12 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°4 Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
-    "N°4 Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
+    "N°4 Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "README.md",
+    "N°4 Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
+    "IMG/burpsuite1.png",
+    "IMG/burpsuite.png",
+    "N°4 Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
     "N°4 Identificación y Explotación de Vulnera/N°9 Burp Suite – Modificación de Solicitudes HTTP.md",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "N°4 Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
@@ -177,7 +181,6 @@
     "N°3 Vulneravbilidades y fuerza Bruta/N°4 Generación de Payloads con Msfvenom.md",
     "N°2 Introducción al Hacking básico/N°1 Implementación de Reverse Shells con Netcat.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°3 Introducción a Metasploit – Ejemplo de vsftpd en Linux.md",
-    "N°2 Introducción al Hacking básico/N°7 Escaneo de Puertos UDP= Fundamentos y Aplicación con Nmap.md",
     "N°4 Identificación y Explotación de Vulnera",
     "N°3 Vulneravbilidades y fuerza Bruta",
     "N°2 Introducción al Hacking básico",
@@ -188,7 +191,6 @@
     "IMG/Pasted image 20240627180334.png",
     "IMG",
     "IMG/Pasted image 20240625231913.png",
-    "IMG/Pasted image 20240625231744.png",
     "N°1 Preparación de Laboratorios",
     "hola",
     "HOLA"
