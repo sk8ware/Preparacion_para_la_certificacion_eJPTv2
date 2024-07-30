@@ -71,3 +71,5 @@ sqlmap -u http://1.2.3.4/index.php --forms -D register -T users -C passwd,userna
 Y veremos que conseguimos ver las credenciales tanto de `passwd` como de `username`. Con esta información podremos ingresar con las credenciales correctas por la página web con la IP asignada.
 
 ¡Saludos desde Ecuador! 🇪🇨🫡
+
+hola
