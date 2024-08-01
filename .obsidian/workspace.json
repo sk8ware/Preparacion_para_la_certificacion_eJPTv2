@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md"
+                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md"
               }
             }
           }
@@ -150,11 +150,12 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "apachetomcat.png",
+    "README.md",
+    "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
+    "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
+    "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "N°4 Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
-    "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
-    "README.md",
     "N°4 Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
     "N°4 Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
     "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
@@ -190,7 +191,6 @@
     "IMG/Captura de pantalla 2024-06-27 180332.png",
     "IMG/Pasted image 20240627180334.png",
     "IMG",
-    "IMG/Pasted image 20240625231913.png",
     "N°1 Preparación de Laboratorios",
     "hola",
     "HOLA"
