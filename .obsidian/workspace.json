@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
+                "file": "N°4 Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md"
+                "file": "N°4 Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md"
               }
             }
           }
@@ -150,9 +149,10 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
     "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
+    "N°4 Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
     "README.md",
+    "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
     "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "N°4 Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
@@ -181,7 +181,6 @@
     "N°1 Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
     "N°3 Vulneravbilidades y fuerza Bruta/N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows.md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
     "N°4 Identificación y Explotación de Vulnera",
     "N°3 Vulneravbilidades y fuerza Bruta",
     "N°2 Introducción al Hacking básico",
