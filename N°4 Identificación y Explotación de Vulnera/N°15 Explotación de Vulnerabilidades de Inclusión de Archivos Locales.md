@@ -113,5 +113,3 @@ Pegamos el salvoconducto encontrado y ya estaremos dentro.
 4. Ingresamos como el usuario `gh0st` en la máquina víctima.
 
 ---
-
-¡Saluditos desde Ecuador!
