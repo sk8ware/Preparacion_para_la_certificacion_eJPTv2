@@ -2,9 +2,6 @@
 ----
 - TAG: #hacking #Servidor #Tomcat
 ----
-Mis disculpas, aquí está el texto corregido con los títulos y subtítulos añadidos:
-
----
 
 **Hoy vamos a estar viendo cómo explotar un servidor `Apache Tomcat` vulnerable. Vamos a aprender a generar un **payload msfvenom** que sea compatible con `Tomcat` y obtener intrusión en la máquina víctima.**
 
