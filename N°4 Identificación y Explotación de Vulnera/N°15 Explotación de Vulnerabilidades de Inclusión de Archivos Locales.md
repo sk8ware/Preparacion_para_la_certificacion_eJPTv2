@@ -1,6 +1,6 @@
 
 ---
-- TAG: #Explotación #Vulnerabilidades #Inclusión #Archivos #Locales #LFI
+- TAG: #Explotación #Vulnerabilidades #Inclusion #Archivos #Locales #LFI
 ----
 # Máquina: [Friendly2](https://hackmyvm.eu/machines/machine.php?vm=Friendly2)
 
