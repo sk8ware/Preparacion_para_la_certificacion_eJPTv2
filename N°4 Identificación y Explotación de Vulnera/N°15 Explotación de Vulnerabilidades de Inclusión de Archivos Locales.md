@@ -5,6 +5,7 @@
 Claro, aquí tienes el contenido con los títulos y subtítulos adecuados:
 
 ---
+# Máquina: [Friendly2](https://hackmyvm.eu/machines/machine.php?vm=Friendly2)
 
 # Explotación de una Vulnerabilidad Local File Inclusion (LFI)
 
