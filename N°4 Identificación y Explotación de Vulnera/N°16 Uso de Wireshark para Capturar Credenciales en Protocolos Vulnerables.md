@@ -51,5 +51,3 @@ En caso de ser un protocolo **HTTP**, sería de la misma manera:
 ---
 
 Es raro que en el examen les pregunten sobre esta herramienta, pero es posible, así que practiquen y curioseen un poco más sobre **Wireshark**.
-
-hola
