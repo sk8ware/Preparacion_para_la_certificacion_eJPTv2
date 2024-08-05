@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md"
               }
             }
           }
@@ -149,48 +149,49 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "N°4 Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
-    "N°4 Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
     "README.md",
-    "N°4 Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
-    "N°4 Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
-    "N°4 Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
-    "N°4 Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
+    "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
+    "5. Enumeración y Explotación del protocolo",
+    "4. Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
+    "4. Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
+    "4. Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
+    "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
+    "4. Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
+    "4. Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
     "IMG/apachetomcat.png",
-    "N°4 Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
-    "N°4 Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
-    "N°4 Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
-    "N°4 Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
+    "4. Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
+    "4. Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
+    "4. Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
+    "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
     "IMG/burpsuite1.png",
     "IMG/burpsuite.png",
-    "N°4 Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
-    "N°4 Identificación y Explotación de Vulnera/N°9 Burp Suite – Modificación de Solicitudes HTTP.md",
+    "4. Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
+    "4. Identificación y Explotación de Vulnera/N°9 Burp Suite – Modificación de Solicitudes HTTP.md",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "IMG/url.png",
     "Pasted image 20240725174531.png",
-    "N°2 Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
-    "N°2 Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
+    "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
+    "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "Sin título.md",
-    "N°4 Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
-    "N°4 Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
-    "N°4 Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
+    "4. Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
+    "4. Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+    "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
     "().md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
-    "N°4 Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
-    "N°1 Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
-    "N°1 Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
-    "N°3 Vulneravbilidades y fuerza Bruta/N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows.md",
-    "N°4 Identificación y Explotación de Vulnera",
-    "N°3 Vulneravbilidades y fuerza Bruta",
-    "N°2 Introducción al Hacking básico",
+    "3. Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
+    "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
+    "1. Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
+    "1. Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
+    "3. Vulneravbilidades y fuerza Bruta/N°9 Ataques a Bases de Datos mediante Fuerza Bruta.md",
+    "4. Identificación y Explotación de Vulnera",
+    "3. Vulneravbilidades y fuerza Bruta",
+    "2. Introducción al Hacking básico",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240628101226.png",
     "IMG/Captura de pantalla 2024-06-27 180332.png",
     "IMG/Pasted image 20240627180334.png",
     "IMG",
-    "N°1 Preparación de Laboratorios",
+    "1. Preparación de Laboratorios",
     "hola",
     "HOLA"
   ]
