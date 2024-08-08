@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
+                "file": "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Explotación",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
+                "file": "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
+                "file": "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md"
+                "file": "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
     "README.md",
+    "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
     "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
+    "3. Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
     "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
+    "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "4. Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
     "4. Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
     "4. Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
@@ -160,7 +163,6 @@
     "4. Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
     "4. Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
     "4. Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
-    "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "IMG/apachetomcat.png",
     "4. Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
     "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
@@ -180,8 +182,6 @@
     "().md",
     "3. Vulneravbilidades y fuerza Bruta/N°10 Ataques Locales con John The Ripper.md",
     "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
-    "1. Preparación de Laboratorios/N°6 Comparativa de NAT, Adaptador en Puente y Red NAT.md",
-    "1. Preparación de Laboratorios/N°3 Instalación De Laboratorios Windows.md",
     "4. Identificación y Explotación de Vulnera",
     "3. Vulneravbilidades y fuerza Bruta",
     "2. Introducción al Hacking básico",
