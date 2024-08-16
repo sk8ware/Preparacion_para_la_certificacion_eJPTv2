@@ -72,14 +72,14 @@ Ahora que tenemos nuevos dominios, vamos a enumerar esos subdominios utilizando 
 
 1. **Enumerar Subdominios:**
    - Ejecutamos **Wfuzz** con una lista de subdominios específica:
-     ```bash
-     wfuzz -c --hc=404 --hl=367 -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -H "Host: FUZZ.devhunter.nyx" -u http://1.2.3.4
-     ```
+```bash
+wfuzz -c --hc=404 --hl=367 -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-20000.txt -H "Host: FUZZ.devhunter.nyx" -u http://1.2.3.4
+```
 
 2. **Filtrar Resultados:**
    - Filtramos los resultados para obtener información relevante. El parámetro `--hl=` nos ayuda a filtrar líneas específicas:
 ```bash
-wfuzz -c --hc=404 --hl=1 -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-20000.txt -H "Host: FUZZ.devhunter.nyx" -u http://1.2.3.4
+wfuzz -c --hc=404 --hl=1 -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-20000.txt -H "Host: FUZZ.devhunter.nyx" -u http://1.2.3.4
 ```
 
 3. **Añadir Subdominios al Archivo Hosts:**
