@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "seclists",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -149,10 +150,12 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
+    "4. Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
+    "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
+    "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
     "5. Enumeración y Explotación del protocolo/4. Protocolo RDP en Windows y Exploración del Sistema.md",
     "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
-    "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
-    "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "4. Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
     "4. Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
@@ -162,8 +165,6 @@
     "4. Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
     "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
     "4. Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
-    "4. Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
-    "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
     "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
     "README.md",
     "IMG/Pasted image 20240628102953.png",
