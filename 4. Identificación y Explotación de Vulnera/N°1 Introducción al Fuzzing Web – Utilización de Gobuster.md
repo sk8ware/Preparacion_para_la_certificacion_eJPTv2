@@ -26,9 +26,9 @@ En esta clase, aprenderemos a encontrar directorios activos en una página web u
 
 1. **Escaneo con Nmap:**
    - Realizamos un escaneo con **nmap** para encontrar los puertos abiertos y posibles vulnerabilidades:
-     ```bash
-     nmap -p- -sS -sC -sV --open --min-rate=5000 -v -n -Pn 1.2.3.4
-     ```
+```bash
+nmap -p- -sS -sC -sV --open --min-rate=5000 -v -n -Pn 1.2.3.4
+```
 
 2. **Revisión de la Página Web:**
    - Al encontrar el puerto **80** abierto, revisamos la página web en el navegador. 
