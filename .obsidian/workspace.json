@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
+                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
+                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
+                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md"
+                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "IMG/IIS.png",
+    "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
     "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "4. Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
     "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
-    "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
     "5. Enumeración y Explotación del protocolo/4. Protocolo RDP en Windows y Exploración del Sistema.md",
     "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
     "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
@@ -187,7 +188,6 @@
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "IMG/url.png",
     "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
-    "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "4. Identificación y Explotación de Vulnera",
     "3. Vulneravbilidades y fuerza Bruta",
     "2. Introducción al Hacking básico",
