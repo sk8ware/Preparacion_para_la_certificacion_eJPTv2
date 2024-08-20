@@ -60,3 +60,9 @@
 - **4. Protocolo RDP en Windows y Exploración del Sistema**
 - **5. Explotación del Protocolo SNMP**
 - **6. Webshell ASPX en Servidores Microsoft IIS**
+
+## 6. Hacking En Entornos CMS
+
+- **6.1  Auditoría de Seguridad en WordPress – Parte 1**
+- **6.2 Auditoría de Seguridad en WordPress – Parte 2**
+- **6.3 Evaluación de Vulnerabilidades en Entornos Drupal**
