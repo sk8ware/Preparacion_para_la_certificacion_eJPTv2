@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
+                "file": "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
+                "file": "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
+                "file": "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md"
+                "file": "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md"
               }
             }
           }
@@ -150,9 +150,12 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "README.md",
+    "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
+    "6. Hacking En Entornos CMS",
+    "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "IMG/IIS.png",
     "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
-    "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "4. Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
     "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
     "5. Enumeración y Explotación del protocolo/4. Protocolo RDP en Windows y Exploración del Sistema.md",
@@ -167,7 +170,6 @@
     "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
     "4. Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
     "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
-    "README.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240627180334.png",
@@ -186,7 +188,6 @@
     "4. Identificación y Explotación de Vulnera/N°15 Explotación de Vulnerabilidades de Inclusión de Archivos Locales.md",
     "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
-    "IMG/url.png",
     "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
     "4. Identificación y Explotación de Vulnera",
     "3. Vulneravbilidades y fuerza Bruta",
