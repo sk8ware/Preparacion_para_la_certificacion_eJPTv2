@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
+                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
+                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
+                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md"
+                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
+    "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+    "README.md",
     "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "2. Introducción al Hacking básico/N°1 Implementación de Reverse Shells con Netcat.md",
-    "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
     "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
-    "README.md",
     "6. Hacking En Entornos CMS",
     "IMG/IIS.png",
     "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
@@ -185,7 +186,6 @@
     "4. Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
     "4. Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
     "5. Enumeración y Explotación del protocolo",
-    "4. Identificación y Explotación de Vulnera/N°16 Uso de Wireshark para Capturar Credenciales en Protocolos Vulnerables.md",
     "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "4. Identificación y Explotación de Vulnera",
