@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash c \"bash ",
+                "query": "server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md"
+                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md"
               }
             }
           }
@@ -150,9 +149,11 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
-    "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+    "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
+    "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
     "README.md",
+    "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+    "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
     "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "2. Introducción al Hacking básico/N°1 Implementación de Reverse Shells con Netcat.md",
     "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
@@ -184,8 +185,6 @@
     "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
     "3. Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
     "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
-    "4. Identificación y Explotación de Vulnera/N°14 Hacking en Servidores Tomcat.md",
-    "4. Identificación y Explotación de Vulnera/N°13 Inyecciones SQL – SQLmap en Acción – EJEMPLO 2.md",
     "5. Enumeración y Explotación del protocolo",
     "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
