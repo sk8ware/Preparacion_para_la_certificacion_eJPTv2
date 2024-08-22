@@ -51,4 +51,9 @@ Y si revisamos nuestra máquina Kali Linux, veremos que tuvo conexión exitosa `
 
 ---
 
-Esto es muy importante aprender ya que en el examen suele haber tanto máquinas Linux como Windows. Si estamos al frente de una máquina Linux, podemos usar tranquilamente el método `curl`, o si nos presentamos hacia una máquina **Windows** con el método `certutil`, en caso de que queramos transferir archivos.
+Esto es muy importante aprender ya que en el examen suele haber tanto máquinas Linux como Windows. Si estamos al frente de una máquina Linux, podemos usar tranquilamente el método `curl` o `wget`, o si nos presentamos hacia una máquina **Windows** con el método `certutil`, en caso de que queramos transferir archivos.
+
+
+```bash
+wget http://1.2.3.4/waza.jpg
+```
