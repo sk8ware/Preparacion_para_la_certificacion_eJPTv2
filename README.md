@@ -61,8 +61,17 @@
 - **5. Explotación del Protocolo SNMP**
 - **6. Webshell ASPX en Servidores Microsoft IIS**
 
-## 6. Hacking En Entornos CMS
+## **6. Hacking En Entornos CMS**
 
 - **6.1  Auditoría de Seguridad en WordPress – Parte 1**
 - **6.2 Auditoría de Seguridad en WordPress – Parte 2**
 - **6.3 Evaluación de Vulnerabilidades en Entornos Drupal**
+
+## **7. Elevación de Privilegios y Tareas Post Explotación**
+
+- **7.1 Elevación de Privilegios en Linux usando `sudo -l`**
+- **7.2 Elevación de Privilegios en Linux usando `sudo -l` | Parte 2**
+- **7.3 Elevación de Privilegios en Linux mediante Binarios SUID**
+- **7.4 Elevación de Privilegios en Linux mediante Binarios SUID | Parte 2**
+- **7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows**
+- **7.6 Enumeración de Usuarios en Sistemas Windows**
