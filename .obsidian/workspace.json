@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md"
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
-    "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
     "README.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación",
     "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+    "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
+    "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
     "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
     "2. Introducción al Hacking básico/N°1 Implementación de Reverse Shells con Netcat.md",
@@ -184,7 +186,6 @@
     "IMG/burpsuite.png",
     "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
     "3. Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
-    "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
     "5. Enumeración y Explotación del protocolo",
     "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
@@ -193,7 +194,6 @@
     "2. Introducción al Hacking básico",
     "IMG",
     "1. Preparación de Laboratorios",
-    "hola",
-    "HOLA"
+    "hola"
   ]
 }
