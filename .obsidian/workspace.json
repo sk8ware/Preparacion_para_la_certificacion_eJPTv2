@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md"
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "README.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+    "README.md",
+    "IMG/GTFOBins.png",
     "7. Elevación de Privilegios y Tareas Post Explotación",
     "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
     "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
@@ -185,9 +187,7 @@
     "IMG/burpsuite1.png",
     "IMG/burpsuite.png",
     "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
-    "3. Vulneravbilidades y fuerza Bruta/N°7 Ataques a Paneles de Login Web con Hydra.md",
     "5. Enumeración y Explotación del protocolo",
-    "IMG/apachetomcat.png",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "4. Identificación y Explotación de Vulnera",
     "3. Vulneravbilidades y fuerza Bruta",
