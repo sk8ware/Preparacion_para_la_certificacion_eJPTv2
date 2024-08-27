@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "server",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md"
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md"
               }
             }
           }
@@ -150,8 +151,10 @@
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
     "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
     "README.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+    "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
     "IMG/GTFOBins.png",
     "7. Elevación de Privilegios y Tareas Post Explotación",
     "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
@@ -177,7 +180,6 @@
     "4. Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
     "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
     "4. Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
-    "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240627180334.png",
@@ -186,7 +188,6 @@
     "IMG/Captura de pantalla 2024-06-27 180332.png",
     "IMG/burpsuite1.png",
     "IMG/burpsuite.png",
-    "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
     "5. Enumeración y Explotación del protocolo",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "4. Identificación y Explotación de Vulnera",
