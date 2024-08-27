@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md"
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md"
               }
             }
           }
@@ -150,9 +149,10 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
     "README.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
     "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
     "IMG/GTFOBins.png",
@@ -179,7 +179,6 @@
     "4. Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
     "4. Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
     "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
-    "4. Identificación y Explotación de Vulnera/N°4Herramientas Alternativas para Fuzzing Web – Uso de WFUZZ, DIRB y DIRSEARCH.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240627180334.png",
