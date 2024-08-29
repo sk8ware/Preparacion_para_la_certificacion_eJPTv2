@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -149,9 +150,9 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "README.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+    "README.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
     "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
