@@ -75,3 +75,10 @@
 - **7.4 Elevación de Privilegios en Linux mediante Binarios SUID | Parte 2**
 - **7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows**
 - **7.6 Enumeración de Usuarios en Sistemas Windows**
+# **8. Pivoting con Metasploit**
+
+- **8.1 Visualización del mapa de Red**
+- **8.2 Pivoting en Sistemas Windows**
+- **8.3 Configuración del Laboratorio de Pivoting en Linux**
+- **8.4 Pivoting en Sistemas Linux**
+- **8.5 Pivoting mediante SSH**
