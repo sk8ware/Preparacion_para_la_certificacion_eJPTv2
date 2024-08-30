@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "README.md",
+    "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
+    "8. Pivoting con Metasploit",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
-    "README.md",
     "IMG/NT Authority System.png",
     "IMG/exploit_suggester.png",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
@@ -180,7 +182,6 @@
     "4. Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
     "4. Identificación y Explotación de Vulnera/N°9 Burp Suite – Modificación de Solicitudes HTTP.md",
     "4. Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
-    "4. Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240627180334.png",
@@ -193,7 +194,6 @@
     "3. Vulneravbilidades y fuerza Bruta",
     "2. Introducción al Hacking básico",
     "IMG",
-    "1. Preparación de Laboratorios",
-    "hola"
+    "1. Preparación de Laboratorios"
   ]
 }
