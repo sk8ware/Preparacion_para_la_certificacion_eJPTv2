@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f70001ff89fc0b14",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md"
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md"
               }
             }
           }
@@ -150,9 +149,13 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
     "README.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
+    "IMG/NT Authority System.png",
+    "IMG/exploit_suggester.png",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
     "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
@@ -178,16 +181,12 @@
     "4. Identificación y Explotación de Vulnera/N°9 Burp Suite – Modificación de Solicitudes HTTP.md",
     "4. Identificación y Explotación de Vulnera/N°8 Saltar Restricciones en la Carga de Archivos.md",
     "4. Identificación y Explotación de Vulnera/N°7 Acceso a Servidor mediante Webshell.md",
-    "4. Identificación y Explotación de Vulnera/N°6 Primeros Pasos tras la Intrusión (Manejo de TTY).md",
-    "4. Identificación y Explotación de Vulnera/N°5 Explotación de Vulnerabilidades en Carga de Archivos.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240627180334.png",
     "IMG/Pasted image 20240625231913.png",
     "IMG/Pasted image 20240628101226.png",
     "IMG/Captura de pantalla 2024-06-27 180332.png",
-    "IMG/burpsuite1.png",
-    "IMG/burpsuite.png",
     "5. Enumeración y Explotación del protocolo",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "4. Identificación y Explotación de Vulnera",
