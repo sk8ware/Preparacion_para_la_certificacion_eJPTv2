@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
     "README.md",
     "IMG/NT Authority System.png",
     "IMG/exploit_suggester.png",
