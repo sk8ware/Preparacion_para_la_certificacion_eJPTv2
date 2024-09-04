@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
+                "file": "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
+                "file": "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
+                "file": "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md"
+                "file": "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
     "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
+    "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
     "README.md",
     "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
     "IMG/pivoting.png",
@@ -183,7 +184,6 @@
     "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "4. Identificación y Explotación de Vulnera/N°11 Burp Suite – Utilización del Intruder.md",
     "4. Identificación y Explotación de Vulnera/N°10 Burp Suite – Utilización del Repeater.md",
-    "4. Identificación y Explotación de Vulnera/N°9 Burp Suite – Modificación de Solicitudes HTTP.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "IMG/Pasted image 20240627180334.png",
