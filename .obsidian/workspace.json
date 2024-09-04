@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
+                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
+                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
+                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md"
+                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
-    "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
-    "IMG/Enrutamiento.png",
     "README.md",
+    "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
+    "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
+    "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
+    "IMG/Enrutamiento.png",
     "IMG/Pivoting_Linux.png",
     "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
     "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
