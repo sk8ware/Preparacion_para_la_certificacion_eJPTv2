@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md"
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
     "README.md",
-    "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
+    "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
+    "9. Laboratorios de Seguridad Ofensiva (Práctica)",
     "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
+    "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
     "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
     "IMG/Enrutamiento.png",
     "IMG/Pivoting_Linux.png",
@@ -185,7 +187,6 @@
     "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
     "5. Enumeración y Explotación del protocolo/4. Protocolo RDP en Windows y Exploración del Sistema.md",
     "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
-    "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
     "IMG/Pasted image 20240628102953.png",
     "IMG/Pasted image 20240628101725.png",
     "5. Enumeración y Explotación del protocolo",
@@ -193,7 +194,6 @@
     "4. Identificación y Explotación de Vulnera",
     "3. Vulneravbilidades y fuerza Bruta",
     "2. Introducción al Hacking básico",
-    "IMG",
-    "1. Preparación de Laboratorios"
+    "IMG"
   ]
 }
