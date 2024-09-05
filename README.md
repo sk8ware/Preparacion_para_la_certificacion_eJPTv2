@@ -82,3 +82,10 @@
 - **8.3 Configuración del Laboratorio de Pivoting en Linux**
 - **8.4 Pivoting en Sistemas Linux**
 - **8.5 Pivoting mediante SSH**
+
+# 9. Laboratorios de Seguridad Ofensiva (Práctica)
+
+- Introducción a la Sección Práctica
+- Práctica: Vulneración de WordPress + Escalamiento de Privilegios
+- Práctica: Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID
+- Práctica: Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID
