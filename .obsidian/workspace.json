@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md"
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "IMG/SUID-nmap.png",
+    "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
+    "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
     "README.md",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)",
@@ -184,11 +187,7 @@
     "IMG/IIS.png",
     "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
     "4. Identificación y Explotación de Vulnera/N°3 Ataques de Transferencia de Zona DNS – Cómo Realizarlos.md",
-    "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
-    "5. Enumeración y Explotación del protocolo/4. Protocolo RDP en Windows y Exploración del Sistema.md",
-    "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
     "IMG/Pasted image 20240628102953.png",
-    "IMG/Pasted image 20240628101725.png",
     "5. Enumeración y Explotación del protocolo",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "4. Identificación y Explotación de Vulnera",
