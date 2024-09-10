@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md"
+                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "2982d9716e9b357c",
   "lastOpenFiles": [
-    "IMG/SUID-nmap.png",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
-    "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
+    "9. Laboratorios de Seguridad Ofensiva (Práctica)/Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md",
     "README.md",
+    "IMG/SUID-nmap.png",
+    "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)/Introducción a la Sección Práctica.md",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)",
     "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
