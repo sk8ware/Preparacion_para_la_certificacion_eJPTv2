@@ -2,14 +2,14 @@
 ¡Bienvenido al repositorio de preparación para el examen eJPT (eLearnining Junior Penetration Tester)! Aquí encontrarás recursos y herramientas para ayudarte a dominar los fundamentos y técnicas avanzadas de la penetración ética. Desde ejercicios prácticos hasta guías detalladas, todo está diseñado para prepararte de manera efectiva para obtener tu certificación eJPT.
 
 ---
-# **1. Preparación de Laboratorios**
-- **1. Explicación del Examen**
-- **2. Metodología de Aprendizaje + Consejos**
-- **3. Instalación De Laboratorios Windows**
-- **4. Instalaciòn De La Máquina Atacante Kali Linux**
-- **5.  Mejores Prácticas para Utilizar tu Sistema Linux** 
-- **6.  Comparativa de NAT, Adaptador en Puente y Red NAT** 
-- **7.  Fundamentos de Redes.- Clases A, B, C y Máscaras de Red**
+- # **1. Preparación de Laboratorios**
+	- 1.1 Explicación del Examen
+	- 1.2 Metodología de Aprendizaje + Consejos
+	- 1.3 Instalación De Laboratorios Windows
+	- 1.4 Instalaciòn De La Máquina Atacante Kali Linux
+	- 1.5  Mejores Prácticas para Utilizar tu Sistema Linux
+	- 1.6  Comparativa de NAT, Adaptador en Puente y Red NAT
+	- 1.7  Fundamentos de Redes.- Clases A, B, C y Máscaras de Red
 
 # **2. Introducción al Hacking básico**
 - **1. Implementación de Reverse Shells con Netcat**
