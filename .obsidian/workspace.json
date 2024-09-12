@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
+                "file": "10. Metodología durante el examen/Metodología durante el examen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
+                "file": "10. Metodología durante el examen/Metodología durante el examen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
+                "file": "10. Metodología durante el examen/Metodología durante el examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md"
+                "file": "10. Metodología durante el examen/Metodología durante el examen.md"
               }
             }
           }
@@ -147,12 +147,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2982d9716e9b357c",
+  "active": "d5a0d9d02553d4d1",
   "lastOpenFiles": [
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.4 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
-    "IMG/ftp_anonymous.png",
+    "IMG/reconocimiento nmap.png",
+    "IMG/apuntes durante el examen 1.png",
+    "10. Metodología durante el examen/Metodología durante el examen.md",
     "README.md",
+    "10. Metodología durante el examen",
+    "10.Metodología a Seguir Durante el Examen/Metodología a Seguir Durante el Examen.md",
+    "IMG/apuntes durante el examen.png",
+    "10.Metodología a Seguir Durante el Examen",
+    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
+    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.4 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
+    "IMG/ftp_anonymous.png",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.3 Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.2 Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
     "IMG/SUID-nmap.png",
@@ -178,21 +185,15 @@
     "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
     "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
     "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
-    "IMG/GTFOBins.png",
     "7. Elevación de Privilegios y Tareas Post Explotación",
     "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
     "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
     "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
     "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
-    "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
-    "2. Introducción al Hacking básico/N°1 Implementación de Reverse Shells con Netcat.md",
     "6. Hacking En Entornos CMS",
-    "IMG/IIS.png",
     "5. Enumeración y Explotación del protocolo",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
     "4. Identificación y Explotación de Vulnera",
-    "3. Vulneravbilidades y fuerza Bruta",
-    "2. Introducción al Hacking básico",
-    "IMG"
+    "3. Vulneravbilidades y fuerza Bruta"
   ]
 }
