@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Metodología durante el examen/Metodología durante el examen.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Metodología durante el examen/Metodología durante el examen.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 7.3 Elevación de Privilegios en Linux mediante Binarios SUID"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Metodología durante el examen/Metodología durante el examen.md",
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 7.3 Elevación de Privilegios en Linux mediante Binarios SUID"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Metodología durante el examen/Metodología durante el examen.md"
-              }
+                "file": "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 7.3 Elevación de Privilegios en Linux mediante Binarios SUID"
             }
           }
         ]
@@ -147,49 +163,49 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5a0d9d02553d4d1",
+  "active": "2982d9716e9b357c",
   "lastOpenFiles": [
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
+    "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
+    "3. Vulneravbilidades y fuerza Bruta/N°2 Introducción a Metasploit – Ejemplo de EternalBlue en Windows.md",
+    "3. Vulneravbilidades y fuerza Bruta/N°1  Descarga Alternativa de Laboratorios.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
+    "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
+    "README.md",
+    "Pasted image 20241011225151.png",
+    "Exposición.md",
+    "5. Enumeración y Explotación del protocolo/5. Explotación del Protocolo SNMP.md",
+    "4. Identificación y Explotación de Vulnera/N°2 Exploración de Subdominios con Wfuzz.md",
+    "5. Enumeración y Explotación del protocolo/6. Webshell ASPX en Servidores Microsoft IIS.md",
+    "4. Identificación y Explotación de Vulnera/N°12 Inyecciones SQL – Empleo de SQLmap.md",
+    "3. Vulneravbilidades y fuerza Bruta/N°4 Generación de Payloads con Msfvenom.md",
+    "3. Vulneravbilidades y fuerza Bruta/N°3 Introducción a Metasploit – Ejemplo de vsftpd en Linux.md",
+    "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
+    "5. Enumeración y Explotación del protocolo/3. Identificación de Usuarios SAMBA y Uso de RPCCLIENT.md",
+    "5. Enumeración y Explotación del protocolo/2. Explotación del Protocolo SMB con Metasploit..md",
+    "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
+    "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
+    "6. Hacking En Entornos CMS/6.1  Auditoría de Seguridad en WordPress – Parte 1.md",
+    "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
+    "10. Metodología durante el examen/Metodología durante el examen.md",
     "IMG/reconocimiento nmap.png",
     "IMG/apuntes durante el examen 1.png",
-    "10. Metodología durante el examen/Metodología durante el examen.md",
-    "README.md",
     "10. Metodología durante el examen",
     "10.Metodología a Seguir Durante el Examen/Metodología a Seguir Durante el Examen.md",
     "IMG/apuntes durante el examen.png",
     "10.Metodología a Seguir Durante el Examen",
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.5 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.4 Práctica Explotación de FTP con Acceso Anónimo + Escalamiento de Privilegios con Binarios SUID.md",
     "IMG/ftp_anonymous.png",
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.3 Práctica Ataque de Fuerza Bruta + Escalamiento de Privilegios con Binarios SUID.md",
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.2 Práctica Vulneración de WordPress + Escalamiento de Privilegios.md",
     "IMG/SUID-nmap.png",
-    "4. Identificación y Explotación de Vulnera/N°1 Introducción al Fuzzing Web – Utilización de Gobuster.md",
-    "9. Laboratorios de Seguridad Ofensiva (Práctica)/9.1 Introducción a la Sección Práctica.md",
     "9. Laboratorios de Seguridad Ofensiva (Práctica)",
-    "8. Pivoting con Metasploit/8.4 Pivoting en Sistemas Linux.md",
-    "8. Pivoting con Metasploit/8.5 Pivoting mediante SSH.md",
-    "8. Pivoting con Metasploit/8.3 Configuración del Laboratorio de Pivoting en Linux.md",
     "IMG/Enrutamiento.png",
     "IMG/Pivoting_Linux.png",
-    "8. Pivoting con Metasploit/8.2 Pivoting en Sistemas Windows.md",
-    "8. Pivoting con Metasploit/8.1 Visualización del mapa de Red.md",
     "IMG/pivoting.png",
     "IMG/pivoting.png",
     "8. Pivoting con Metasploit",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.6 Enumeración de Usuarios en Sistemas Windows.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.5 Elevación Automática de Privilegios con Metasploit en Linux y Windows.md",
-    "IMG/NT Authority System.png",
-    "IMG/exploit_suggester.png",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.4 Elevación de Privilegios en Linux mediante Binarios SUID Parte 2.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.3 Elevación de Privilegios en Linux mediante Binarios SUID.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.1 Elevación de Privilegios en Linux usando 'sudo -l'.md",
-    "7. Elevación de Privilegios y Tareas Post Explotación/7.2 Elevación de Privilegios en Linux usando `sudo -l`  Parte 2.md",
-    "5. Enumeración y Explotación del protocolo/1. Exploración y Uso del Protocolo SMB (Puerto 445).md",
     "7. Elevación de Privilegios y Tareas Post Explotación",
-    "6. Hacking En Entornos CMS/6.3 Evaluación de Vulnerabilidades en Entornos Drupal.md",
-    "2. Introducción al Hacking básico/N°3 Transferencia de Archivos en Redes Windows.md",
-    "2. Introducción al Hacking básico/N°2 Intercambio de Archivos con el servidor HTTP y Reverse Shell con Python.md",
-    "6. Hacking En Entornos CMS/6.2 Auditoría de Seguridad en WordPress – Parte 2.md",
     "6. Hacking En Entornos CMS",
     "5. Enumeración y Explotación del protocolo",
     "N°4 Identificación y Explotación de Vulnera/Sin nombre",
